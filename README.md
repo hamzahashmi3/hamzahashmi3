@@ -53,10 +53,18 @@ I am building my career in **DevOps and Cloud Engineering** with a strong focus 
 
 ---
 
-## Achievements
+## Activity Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamzahashmi3/hamzahashmi3/output/trophy.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzahashmi3&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Dev Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
