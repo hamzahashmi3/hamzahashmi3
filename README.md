@@ -56,9 +56,7 @@ I am building my career in **DevOps and Cloud Engineering** with a strong focus 
 ## Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hamzahashmi3&theme=tokyonight" alt="GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/hamzahashmi3/hamzahashmi3/output/trophy.svg" />
 </p>
 
 ---
@@ -70,6 +68,13 @@ I am building my career in **DevOps and Cloud Engineering** with a strong focus 
 </p>
 
 ---
+
+## Certifications & Current Direction
+
+- AWS Certified Cloud Practitioner
+- Preparing for AWS Solutions Architect Associate
+- Building hands-on AWS and DevOps portfolio projects
+- Focused on Infrastructure, Security, Automation, and CI/CD
 
 ## Featured Projects
 
@@ -93,16 +98,6 @@ A high-availability AWS project designed around resilience and scalability.
 - Load balancer integration
 - Shared storage with EFS
 - Multi-instance style architecture thinking
-
----
-
-## Current Focus
-
-- AWS Solutions Architect Associate
-- Terraform fundamentals
-- GitHub Actions and CI/CD pipelines
-- Cloud security best practices
-- Production-style documentation and portfolio projects
 
 ---
 

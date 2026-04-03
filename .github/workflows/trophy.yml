@@ -1,0 +1,26 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily update
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate trophy SVG
+        run: |
+          curl -o trophy.svg "https://github-profile-trophy.vercel.app/?username=hamzahashmi3&theme=tokyonight&no-frame=true&no-bg=true&column=6"
+
+      - name: Push trophy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
