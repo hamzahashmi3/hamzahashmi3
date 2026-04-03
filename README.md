@@ -32,12 +32,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzahashmi3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahashmi3&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hamzahashmi3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzahashmi3&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hamzahashmi3/hamzahashmi3/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -84,10 +84,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hamza-hashmi-6b5272135/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hamzahashmi.office@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
