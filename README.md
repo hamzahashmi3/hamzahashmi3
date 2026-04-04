@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lottie.host/embed/b068315a-f175-473f-8b7f-24f12f687e42/tUdDvEC6LS.lottie?stateMachineId=StateMachine1" />
+  <img src="./assets/Interactive Mage animation.gif" />
 </p>
 
 <h2 align="center">🚀 DevOps & Cloud Engineer | AWS • Docker • Linux • CI/CD</h2>
@@ -12,62 +12,45 @@
 
 ## 🧠 Profile Overview
 
-<table>
-<tr>
+## 🧠 Profile Overview
 
-<td width="50%" valign="top">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🧠 Core Skills
+#### 🧠 Core Skills
+- AWS (EC2, IAM, S3, VPC)
+- Docker & Containers
+- Linux Administration
+- CI/CD (GitHub Actions)
+- IAM & Security
+- Automation & Scripting
 
-- AWS (EC2, IAM, S3, VPC)  
-- Docker & Containers  
-- Linux Administration  
-- CI/CD (GitHub Actions)  
-- IAM & Security  
-- Automation & Scripting  
+#### 📈 Roadmap
+- AWS Projects ✅
+- Terraform (Next)
+- CI/CD Pipelines
+- Monitoring
+- Production Systems
+- DevOps Job 🚀
 
-</td>
+    </td>
+    <td width="50%" valign="top">
 
-<td width="50%" valign="top">
+#### 🎯 Current Status
+- Transitioning to DevOps
+- Building AWS projects
+- Preparing for AWS SAA
+- Actively seeking roles (UK)
 
-### 🎯 Current Status
+#### ⚙️ DevOps Mindset
+- Automate repetitive tasks
+- Secure infrastructure
+- Build scalable systems
+- Monitor & improve
 
-- Transitioning to DevOps  
-- Building AWS projects  
-- Preparing for AWS SAA  
-- Actively seeking roles (UK)  
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📈 Roadmap
-
-- AWS Projects ✔  
-- Terraform (Next)  
-- CI/CD Pipelines  
-- Monitoring  
-- Production Systems  
-- DevOps Job 🚀  
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ DevOps Mindset
-
-- Automate repetitive tasks  
-- Secure infrastructure  
-- Build scalable systems  
-- Monitor & improve  
-
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
 
 ## 🛰️ Example Cloud Architecture (My Approach)
@@ -94,7 +77,7 @@ flowchart LR
 ### 🔐 AWS IAM Secure Multi-Role Architecture
 
 <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
-  <img src="https://lottie.host/embed/0a66cf35-f4ad-45d9-8a73-9e335eecbfe5/c48vWQzjsO.lottie" width="100%" alt="AWS IAM Project Demo" />
+  <img src="./assets/IAM.gif" width="100%" alt="AWS IAM Project Demo" />
 </a>
 
 **What this project shows**
@@ -115,7 +98,7 @@ This project demonstrates secure identity and access management in AWS using rea
 ### 🐳 EC2 Docker Nginx S3 Backup
 
 <a href="https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup">
-  <img src="https://lottie.host/embed/bc391bf4-e19f-4085-a25e-ef67601c77ff/aYTPc6lmWn.lottie" width="100%" alt="Docker Nginx Project Demo" />
+  <img src="./assets/EC2-Docker.gif" width="100%" alt="Docker Nginx Project Demo" />
 </a>
 
 **What this project shows**
@@ -139,7 +122,7 @@ This project shows deployment, automation, and backup strategy in a practical cl
 ### ☁️ EC2 High Availability Architecture
 
 <a href="https://github.com/hamzahashmi3/03-EC2-High-Availability">
-  <img src="https://lottie.host/embed/004312e5-9cfc-4094-94b6-86dd25b78005/XMMjQaHFA0.lottie" width="100%" alt="EC2 High Availability Project Demo" />
+  <img src="./assets/EC2-HA.gif" width="100%" alt="EC2 High Availability Project Demo" />
 </a>
 
 **What this project shows**
@@ -160,7 +143,7 @@ This project highlights production-style AWS architecture focused on resilience,
 ### 🧩 TechnoCannons
 
 <a href="https://github.com/hamzahashmi3/technocannons">
-  <img src="https://lottie.host/embed/4f8aa114-afee-4b06-bf22-2fb457d93bde/1lHvRL2E0D.lottie" width="100%" alt="TechnoCannons Project Demo" />
+  <img src="./assets/technocannons.gif" width="100%" alt="TechnoCannons Project Demo" />
 </a>
 
 **What this project shows**
