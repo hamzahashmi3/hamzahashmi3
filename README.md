@@ -50,14 +50,27 @@ I am transitioning from MERN Stack Development into DevOps and Cloud Engineering
 
 ## 🛰️ Current Progress
 
-| Domain     | Status         | Focus                  |
-| ---------- | -------------- | ---------------------- |
-| AWS        | ████████░░ 80% | EC2, IAM, S3, VPC      |
-| Linux      | ████████░░ 80% | CLI, system management |
-| Docker     | ███████░░░ 70% | Containers             |
-| CI/CD      | ██████░░░░ 60% | GitHub Actions         |
-| Terraform  | █████░░░░░ 50% | Infrastructure         |
-| Monitoring | ████░░░░░░ 40% | CloudWatch             |
+<p align="left">
+
+  **AWS**  
+  <img src="https://img.shields.io/badge/Progress-80%25-00F7FF?style=for-the-badge" />
+
+  **Linux**  
+  <img src="https://img.shields.io/badge/Progress-80%25-00F7FF?style=for-the-badge" />
+
+  **Docker**  
+  <img src="https://img.shields.io/badge/Progress-70%25-0ea5e9?style=for-the-badge" />
+
+  **CI/CD**  
+  <img src="https://img.shields.io/badge/Progress-60%25-6366f1?style=for-the-badge" />
+
+  **Terraform**  
+  <img src="https://img.shields.io/badge/Progress-50%25-8b5cf6?style=for-the-badge" />
+
+  **Monitoring**  
+  <img src="https://img.shields.io/badge/Progress-40%25-9333ea?style=for-the-badge" />
+
+</p>
 
 ### 🐍 Contribution Activity
 
