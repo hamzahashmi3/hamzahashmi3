@@ -55,37 +55,23 @@
 </table> -->
 
 <table width="100%">
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-<h3>🧠 Core Skills</h3>
-<ul>
-<li>AWS (EC2, IAM, S3, VPC)</li>
-<li>Docker & Containers</li>
-<li>Linux Administration</li>
-<li>CI/CD (GitHub Actions)</li>
-<li>IAM & Security</li>
-<li>Automation & Scripting</li>
-</ul>
+<!-- Tumhara content -->
 
-<h3>📈 Roadmap</h3>
-<ul>
-<li>AWS Projects ✅</li>
-<li>Terraform (Next)</li>
-<li>CI/CD Pipelines</li>
-<li>Monitoring</li>
-<li>Production Systems</li>
-<li>DevOps Job 🚀</li>
-</ul>
+</td>
 
-    </td>
+<td width="40%" align="center">
 
-    <td width="40%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahhashmi3&theme=tokyonight&hide_border=true" width="100%" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hamzahhashmi3&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## 🛰️ Example Cloud Architecture (My Approach)
