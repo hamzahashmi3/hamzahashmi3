@@ -10,7 +10,7 @@
 
 ## 🧠 Profile Overview
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 Core Skills</h3>
@@ -50,6 +50,40 @@
         <li>Build scalable systems</li>
         <li>Monitor & improve</li>
       </ul>
+    </td>
+  </tr>
+</table> -->
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+
+<h3>🧠 Core Skills</h3>
+<ul>
+<li>AWS (EC2, IAM, S3, VPC)</li>
+<li>Docker & Containers</li>
+<li>Linux Administration</li>
+<li>CI/CD (GitHub Actions)</li>
+<li>IAM & Security</li>
+<li>Automation & Scripting</li>
+</ul>
+
+<h3>📈 Roadmap</h3>
+<ul>
+<li>AWS Projects ✅</li>
+<li>Terraform (Next)</li>
+<li>CI/CD Pipelines</li>
+<li>Monitoring</li>
+<li>Production Systems</li>
+<li>DevOps Job 🚀</li>
+</ul>
+
+    </td>
+
+    <td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hamzahhashmi3&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+
     </td>
   </tr>
 </table>
