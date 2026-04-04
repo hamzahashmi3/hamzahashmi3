@@ -27,12 +27,12 @@
     <td width="50%" valign="top">
 
 #### 📈 Roadmap
-- AWS Projects ✅
-- Terraform (Next)
-- CI/CD Pipelines
-- Monitoring
-- Production Systems
-- DevOps Job 🚀
+- AWS Projects ✅                 
+- Terraform (Next)            
+- CI/CD Pipelines           
+- Monitoring                
+- Production Systems          
+- DevOps Job 🚀              
 
     </td>
   </tr>
