@@ -135,9 +135,12 @@ flowchart LR
 
 ## 📊 LIVE PERFORMANCE
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahashmi3&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center" style="margin:0; padding:0;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahhashmi3&theme=tokyonight&hide_border=true" 
+    style="width:100%; display:block;" 
+  />
+</div>
 
 ---
 
