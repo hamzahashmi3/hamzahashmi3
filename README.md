@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HAMZAH%20HASHMI&fontSize=55&color=0:00F7FF,100:7C3AED&stroke=FFFFFF&animation=twinkling" />
 </p>
 
-<h2 align="center">🤖 AI DEVOPS SYSTEM — DARK MODE</h2>
+<h2 align="center">🚀 DevOps & Cloud Engineer | AWS • Docker • Linux • CI/CD</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;INITIALIZING+AI+AGENTS...;AWS+%7C+DOCKER+%7C+LINUX+%7C+CI%2FCD;REAL+PROJECTS+%7C+REAL+SYSTEMS;TARGET:+DEVOPS+ENGINEER" />
@@ -10,96 +10,139 @@
 
 ---
 
-## 🧠 AI CORE SYSTEM
+## 🧠 Core Skills & Focus
 
-```yaml
-AI_SYSTEM: HAMZAH_AI_vFINAL
-MODE: MULTI-AGENT
+- AWS Cloud (EC2, IAM, S3, VPC)
+- Docker & Containerization
+- Linux Administration
+- CI/CD (GitHub Actions)
+- Infrastructure Security (IAM, MFA)
+- Automation & Scripting
 
-AGENTS:
-  CloudAgent: AWS Infrastructure
-  DevOpsAgent: CI/CD + Automation
-  SecurityAgent: IAM + Protection
-  ArchitectureAgent: System Design
-  PortfolioAgent: GitHub Optimization
+## 🎯 Current Status
 
-STATE: ACTIVE 🚀
-MISSION: Build production-ready systems
-```
+- Transitioning from MERN to DevOps
+- Building real-world AWS projects
+- Preparing for AWS Solutions Architect Associate
+- Actively seeking DevOps / Cloud roles (UK)
 
----
+## 📈 Learning Roadmap
 
-## 🎮 PLAYER ENGINE
+- AWS Projects (Done)
+- Terraform (Next)
+- CI/CD Pipelines
+- Monitoring (CloudWatch)
+- Production-Level Architecture
+- DevOps Engineer Role 🚀
 
-```ini
-PLAYER = Hamzah Hashmi
-CLASS  = DevOps Engineer
-LEVEL  = ████████░░ 80%
-XP     = Increasing...
-MODE   = REAL PROJECTS
-STATUS = 🔥 GRINDING
-```
-
----
-
-## 🛰️ LIVE CLOUD ARCHITECTURE
+## 🛰️ Example Cloud Architecture (My Approach)
 
 ```mermaid
 flowchart LR
-    A[User] --> B[CloudFront]
-    B --> C[ALB]
-    C --> D[EC2 Cluster]
-    D --> E[Docker]
-    E --> F[Nginx]
-    D --> G[EFS]
-    D --> H[S3 Backup]
-    D --> I[CloudWatch]
-    D --> J[IAM Roles]
+    A[User] --> B[Load Balancer]
+    B --> C[EC2 Instances]
+    C --> D[Docker Containers]
+    D --> E[Nginx]
+    C --> F[S3 Backup]
+    C --> G[CloudWatch]
+    C --> H[IAM Security]
 ```
 
----
+## 🚀 Featured Cloud & DevOps Projects
 
-## 🎬 LIVE PROJECT SHOWCASE
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🔐 IAM SYSTEM
+### 🔐 AWS IAM Secure Multi-Role Architecture
 
 <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="AWS IAM Project Demo" />
 </a>
 
-✔ MFA
-✔ Least Privilege
-✔ Role-based access
+**What this project shows**
+- MFA enforcement
+- Least privilege access control
+- Multi-role IAM architecture
+- CloudTrail audit visibility
 
-🔗 Repo:
-https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture
+**Why it matters**  
+This project demonstrates secure identity and access management in AWS using real-world IAM design principles.
+
+**Links**  
+[📂 Repository](https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🐳 DOCKER SYSTEM
+### 🐳 EC2 Docker Nginx S3 Backup
 
 <a href="https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut9v8k/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut9v8k/giphy.gif" width="100%" alt="Docker Nginx Project Demo" />
 </a>
 
-✔ Docker deployment
-✔ Nginx hosting
-✔ S3 backup
+**What this project shows**
+- Dockerized deployment on EC2
+- Nginx web hosting
+- Automated S3 backup workflow
+- Linux and cron-based operations
 
-🔗 Repo:
-https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup
+**Why it matters**  
+This project shows deployment, automation, and backup strategy in a practical cloud setup.
+
+**Links**  
+[📂 Repository](https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup)
 
 </td>
-</tr>
-</table>
+  </tr>
 
----
+  <tr>
+    <td width="50%" valign="top">
+
+### ☁️ EC2 High Availability Architecture
+
+<a href="https://github.com/hamzahashmi3/03-EC2-High-Availability">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="EC2 High Availability Project Demo" />
+</a>
+
+**What this project shows**
+- Load balancing
+- Shared storage with EFS
+- Scalable EC2 architecture
+- High availability design thinking
+
+**Why it matters**  
+This project highlights production-style AWS architecture focused on resilience, scaling, and uptime.
+
+**Links**  
+[📂 Repository](https://github.com/hamzahashmi3/03-EC2-High-Availability)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 TechnoCannons
+
+<a href="https://github.com/hamzahashmi3/technocannons">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="TechnoCannons Project Demo" />
+</a>
+
+**What this project shows**
+- Full-stack development background
+- Real-world application building
+- Strong software engineering foundation
+- Transition path from development to DevOps
+
+**Why it matters**  
+This project reflects your software development base, which strengthens your DevOps profile by showing both application and infrastructure understanding.
+
+**Links**  
+[📂 Repository](https://github.com/hamzahashmi3/technocannons)
+
+</td>
+  </tr>
+</table>
 
 ## 🧭 FUTURE ROADMAP
 
@@ -114,14 +157,12 @@ flowchart LR
 
 ---
 
-## ⚙️ DECISION ENGINE
+## ⚙️ DevOps Mindset
 
-```diff
-+ Automate everything
-+ Secure everything
-+ Scale everything
-+ Build real projects
-```
+- Automate repetitive tasks
+- Secure cloud infrastructure
+- Build scalable systems
+- Monitor and improve performance
 
 ---
 
@@ -137,7 +178,7 @@ flowchart LR
 
 <div align="center" style="margin:0; padding:0;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahhashmi3&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahashmi3&theme=tokyonight&hide_border=true" 
     style="width:100%; display:block;" 
   />
 </div>
