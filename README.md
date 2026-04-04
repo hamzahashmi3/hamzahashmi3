@@ -10,55 +10,49 @@
 
 ## 🧠 Profile Overview
 
-
-<table>
-  <tr width="100%">
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
+      <h3>🧠 Core Skills</h3>
+      <ul>
+        <li>AWS (EC2, IAM, S3, VPC)</li>
+        <li>Docker & Containers</li>
+        <li>Linux Administration</li>
+        <li>CI/CD (GitHub Actions)</li>
+        <li>IAM & Security</li>
+        <li>Automation & Scripting</li>
+      </ul>
 
-#### 🧠 Core Skills
-- AWS (EC2, IAM, S3, VPC)
-- Docker & Containers
-- Linux Administration
-- CI/CD (GitHub Actions)
-- IAM & Security
-- Automation & Scripting
-
+      <h3>📈 Roadmap</h3>
+      <ul>
+        <li>AWS Projects ✅</li>
+        <li>Terraform (Next)</li>
+        <li>CI/CD Pipelines</li>
+        <li>Monitoring</li>
+        <li>Production Systems</li>
+        <li>DevOps Job 🚀</li>
+      </ul>
     </td>
+
     <td width="50%" valign="top">
+      <h3>🎯 Current Status</h3>
+      <ul>
+        <li>Transitioning to DevOps</li>
+        <li>Building AWS projects</li>
+        <li>Preparing for AWS SAA</li>
+        <li>Actively seeking roles (UK)</li>
+      </ul>
 
-#### 📈 Roadmap
-- AWS Projects ✅                 
-- Terraform (Next)            
-- CI/CD Pipelines           
-- Monitoring                
-- Production Systems          
-- DevOps Job 🚀              
-
-    </td>
-  </tr>
-
-  <tr  width="100%">
-    <td width="50%" valign="top">
-
-#### 🎯 Current Status
-- Transitioning to DevOps
-- Building AWS projects
-- Preparing for AWS SAA
-- Actively seeking roles (UK)
-
-    </td>
-    <td width="50%" valign="top">
-
-#### ⚙️ DevOps Mindset
-- Automate repetitive tasks
-- Secure infrastructure
-- Build scalable systems
-- Monitor & improve
-
+      <h3>⚙️ DevOps Mindset</h3>
+      <ul>
+        <li>Automate repetitive tasks</li>
+        <li>Secure infrastructure</li>
+        <li>Build scalable systems</li>
+        <li>Monitor & improve</li>
+      </ul>
     </td>
   </tr>
 </table>
-
 
 ## 🛰️ Example Cloud Architecture (My Approach)
 
