@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Interactive Mage animation.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HAMZAH%20HASHMI&fontSize=55&color=0:00F7FF,100:7C3AED&stroke=FFFFFF&animation=twinkling" />
 </p>
 
 <h2 align="center">🚀 DevOps & Cloud Engineer | AWS • Docker • Linux • CI/CD</h2>
@@ -8,50 +8,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;INITIALIZING+AI+AGENTS...;AWS+%7C+DOCKER+%7C+LINUX+%7C+CI%2FCD;REAL+PROJECTS+%7C+REAL+SYSTEMS;TARGET:+DEVOPS+ENGINEER" />
 </p>
 
----
-
 ## 🧠 Profile Overview
 
-## 🧠 Profile Overview
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-
-#### 🧠 Core Skills
-- AWS (EC2, IAM, S3, VPC)
-- Docker & Containers
-- Linux Administration
-- CI/CD (GitHub Actions)
-- IAM & Security
-- Automation & Scripting
-
-#### 📈 Roadmap
-- AWS Projects ✅
-- Terraform (Next)
-- CI/CD Pipelines
-- Monitoring
-- Production Systems
-- DevOps Job 🚀
-
+        #### 🧠 Core Skills
+        - AWS (EC2, IAM, S3, VPC)
+        - Docker & Containers
+        - Linux Administration
+        - CI/CD (GitHub Actions)
+        - IAM & Security
+        - Automation & Scripting
     </td>
     <td width="50%" valign="top">
+        #### 📈 Roadmap
+        - AWS Projects ✅
+        - Terraform (Next)
+        - CI/CD Pipelines
+        - Monitoring
+        - Production Systems
+        - DevOps Job 🚀
+    </td>
+  </tr>
 
-#### 🎯 Current Status
-- Transitioning to DevOps
-- Building AWS projects
-- Preparing for AWS SAA
-- Actively seeking roles (UK)
-
-#### ⚙️ DevOps Mindset
-- Automate repetitive tasks
-- Secure infrastructure
-- Build scalable systems
-- Monitor & improve
+  <tr>
+    <td width="50%" valign="top">
+        #### 🎯 Current Status
+        - Transitioning to DevOps
+        - Building AWS projects
+        - Preparing for AWS SAA
+        - Actively seeking roles (UK)
+    </td>
+    <td width="50%" valign="top">
+        #### ⚙️ DevOps Mindset
+        - Automate repetitive tasks
+        - Secure infrastructure
+        - Build scalable systems
+        - Monitor & improve
 
     </td>
   </tr>
 </table>
+
 
 ## 🛰️ Example Cloud Architecture (My Approach)
 
@@ -77,7 +77,7 @@ flowchart LR
 ### 🔐 AWS IAM Secure Multi-Role Architecture
 
 <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
-  <img src="./assets/IAM.gif" width="100%" alt="AWS IAM Project Demo" />
+  <img src="./assets/IAM.gif"  alt="AWS IAM Project Demo" />
 </a>
 
 **What this project shows**
