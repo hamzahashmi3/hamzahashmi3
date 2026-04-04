@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HAMZAH%20HASHMI%20AI%20SYSTEM&fontSize=50&color=0:00F7FF,100:7C3AED&stroke=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HAMZAH%20HASHMI&fontSize=55&color=0:00F7FF,100:7C3AED&stroke=FFFFFF&animation=twinkling" />
 </p>
 
-<h2 align="center">🤖 ULTIMATE AI DEVOPS PORTFOLIO SYSTEM</h2>
+<h2 align="center">🤖 AI DEVOPS SYSTEM — DARK MODE</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+AGENT+BOOTING...;LOADING+DEVOPS+SYSTEM...;AWS+%7C+DOCKER+%7C+LINUX+%7C+CI%2FCD;REAL+PROJECTS+%7C+REAL+SYSTEMS;STATUS:+BUILDING+FUTURE+CLOUD+ENGINEER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=SYSTEM+BOOTING...;INITIALIZING+AI+AGENTS...;AWS+%7C+DOCKER+%7C+LINUX+%7C+CI%2FCD;REAL+PROJECTS+%7C+REAL+SYSTEMS;TARGET:+DEVOPS+ENGINEER" />
 </p>
 
 ---
@@ -13,18 +13,18 @@
 ## 🧠 AI CORE SYSTEM
 
 ```yaml
-AI_SYSTEM: HAMZAH_AI_v3
-MODE: MULTI-AGENT DEVOPS SYSTEM
+AI_SYSTEM: HAMZAH_AI_vFINAL
+MODE: MULTI-AGENT
 
 AGENTS:
   CloudAgent: AWS Infrastructure
-  DevOpsAgent: Automation & CI/CD
-  SecurityAgent: IAM & Access Control
+  DevOpsAgent: CI/CD + Automation
+  SecurityAgent: IAM + Protection
   ArchitectureAgent: System Design
   PortfolioAgent: GitHub Optimization
 
-MISSION: Become Production-Ready DevOps Engineer
-STATUS: ACTIVE 🚀
+STATE: ACTIVE 🚀
+MISSION: Build production-ready systems
 ```
 
 ---
@@ -34,9 +34,10 @@ STATUS: ACTIVE 🚀
 ```ini
 PLAYER = Hamzah Hashmi
 CLASS  = DevOps Engineer
-LEVEL  = ███████░░░ 70%
-MODE   = BUILDING REAL PROJECTS
-STATUS = 🔥 IN PROGRESS
+LEVEL  = ████████░░ 80%
+XP     = Increasing...
+MODE   = REAL PROJECTS
+STATUS = 🔥 GRINDING
 ```
 
 ---
@@ -46,11 +47,11 @@ STATUS = 🔥 IN PROGRESS
 ```mermaid
 flowchart LR
     A[User] --> B[CloudFront]
-    B --> C[Load Balancer]
-    C --> D[EC2 Instances]
-    D --> E[Docker Containers]
+    B --> C[ALB]
+    C --> D[EC2 Cluster]
+    D --> E[Docker]
     E --> F[Nginx]
-    D --> G[EFS Storage]
+    D --> G[EFS]
     D --> H[S3 Backup]
     D --> I[CloudWatch]
     D --> J[IAM Roles]
@@ -58,42 +59,41 @@ flowchart LR
 
 ---
 
-## 🎬 LIVE PROJECT DEMOS
+## 🎬 LIVE PROJECT SHOWCASE
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔐 IAM Security Architecture
+### 🔐 IAM SYSTEM
 
 <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 </a>
 
-**Features**
+✔ MFA
+✔ Least Privilege
+✔ Role-based access
 
-* MFA enforcement
-* Least privilege
-* Multi-role system
-
-🔗 [View Repository](https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture)
+🔗 Repo:
+https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture
 
 </td>
+
 <td width="50%">
 
-### 🐳 EC2 Docker Nginx System
+### 🐳 DOCKER SYSTEM
 
 <a href="https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup">
   <img src="https://media.giphy.com/media/xT0GqeSlGSRQut9v8k/giphy.gif" width="100%" />
 </a>
 
-**Features**
+✔ Docker deployment
+✔ Nginx hosting
+✔ S3 backup
 
-* Docker deployment
-* Nginx hosting
-* Automated S3 backups
-
-🔗 [View Repository](https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup)
+🔗 Repo:
+https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup
 
 </td>
 </tr>
@@ -105,10 +105,10 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[Current: AWS + Projects] --> B[Terraform]
-    B --> C[CI/CD Pipelines]
-    C --> D[Monitoring Systems]
-    D --> E[Production Architecture]
+    A[AWS Base] --> B[Terraform]
+    B --> C[CI/CD]
+    C --> D[Monitoring]
+    D --> E[Production Systems]
     E --> F[DevOps Job 🚀]
 ```
 
@@ -117,9 +117,9 @@ flowchart LR
 ## ⚙️ DECISION ENGINE
 
 ```diff
-+ Automate repetitive tasks
-+ Secure infrastructure
-+ Scale systems
++ Automate everything
++ Secure everything
++ Scale everything
 + Build real projects
 ```
 
@@ -133,16 +133,15 @@ flowchart LR
 
 ---
 
-## 📊 PERFORMANCE
+## 📊 LIVE PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamzahashmi3&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahashmi3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 LIVE ACTIVITY
+## 🐍 CONTRIBUTION FEED
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamzahashmi3/hamzahashmi3/output/github-contribution-grid-snake-dark.svg" />
@@ -163,15 +162,15 @@ flowchart LR
 
 ---
 
-## ⚡ FINAL SYSTEM STATUS
+## ⚡ FINAL STATUS
 
 ```diff
-+ AI Learning: ACTIVE
-+ Projects: BUILDING
-+ Skills: IMPROVING
++ Skills: Improving
++ Projects: Growing
++ System: Evolving
 ! TARGET: DEVOPS ENGINEER 🚀
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=footer&animation=twinkling" />
 </p>
