@@ -12,7 +12,7 @@
 
 
 <table>
-  <tr>
+  <tr width="100%">
     <td width="50%" valign="top">
 
 #### 🧠 Core Skills
@@ -37,7 +37,7 @@
     </td>
   </tr>
 
-  <tr>
+  <tr  width="100%">
     <td width="50%" valign="top">
 
 #### 🎯 Current Status
