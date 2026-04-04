@@ -23,7 +23,7 @@
         <li>Automation & Scripting</li>
       </ul>
 
-      <h3>📈 Roadmap</h3>
+  <h3>📈 Roadmap</h3>
       <ul>
         <li>AWS Projects ✅</li>
         <li>Terraform (Next)</li>
@@ -34,7 +34,7 @@
       </ul>
     </td>
 
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
       <h3>🎯 Current Status</h3>
       <ul>
         <li>Transitioning to DevOps</li>
@@ -43,7 +43,7 @@
         <li>Actively seeking roles (UK)</li>
       </ul>
 
-      <h3>⚙️ DevOps Mindset</h3>
+  <h3>⚙️ DevOps Mindset</h3>
       <ul>
         <li>Automate repetitive tasks</li>
         <li>Secure infrastructure</li>
