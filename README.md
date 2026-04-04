@@ -14,39 +14,46 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-        #### 🧠 Core Skills
-        - AWS (EC2, IAM, S3, VPC)
-        - Docker & Containers
-        - Linux Administration
-        - CI/CD (GitHub Actions)
-        - IAM & Security
-        - Automation & Scripting
+
+#### 🧠 Core Skills
+- AWS (EC2, IAM, S3, VPC)
+- Docker & Containers
+- Linux Administration
+- CI/CD (GitHub Actions)
+- IAM & Security
+- Automation & Scripting
+
     </td>
     <td width="50%" valign="top">
-        #### 📈 Roadmap
-        - AWS Projects ✅
-        - Terraform (Next)
-        - CI/CD Pipelines
-        - Monitoring
-        - Production Systems
-        - DevOps Job 🚀
+
+#### 📈 Roadmap
+- AWS Projects ✅
+- Terraform (Next)
+- CI/CD Pipelines
+- Monitoring
+- Production Systems
+- DevOps Job 🚀
+
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-        #### 🎯 Current Status
-        - Transitioning to DevOps
-        - Building AWS projects
-        - Preparing for AWS SAA
-        - Actively seeking roles (UK)
+
+#### 🎯 Current Status
+- Transitioning to DevOps
+- Building AWS projects
+- Preparing for AWS SAA
+- Actively seeking roles (UK)
+
     </td>
     <td width="50%" valign="top">
-        #### ⚙️ DevOps Mindset
-        - Automate repetitive tasks
-        - Secure infrastructure
-        - Build scalable systems
-        - Monitor & improve
+
+#### ⚙️ DevOps Mindset
+- Automate repetitive tasks
+- Secure infrastructure
+- Build scalable systems
+- Monitor & improve
 
     </td>
   </tr>
