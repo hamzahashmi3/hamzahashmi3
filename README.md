@@ -2,115 +2,123 @@
   <img src="./blog-main-banner-devops.png" alt="Hamzah Hashmi DevOps Banner" />
 </p>
 
-<h1 align="center">Hamzah Hashmi</h1>
+<h1 align="center">⚡ Hamzah Hashmi ⚡</h1>
 <h3 align="center">DevOps & Cloud Engineer in Progress • AWS • Docker • Linux • CI/CD</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Linux+%7C+Terraform+%7C+CI%2FCD;Building+real-world+cloud+projects;Automate.+Secure.+Scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Linux+%7C+Terraform+%7C+CI%2FCD;Building+Real-World+Cloud+Projects;Automate.+Secure.+Scale.;From+MERN+to+Cloud+Infrastructure+Engineering" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-hashmi-6b5272135/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hamzah%20Hashmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hamzahashmi.office@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hamzahhashmi.office%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Location-UK-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-DevOps%20Roles-111827?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
 
-## About Me
+## 🧠 Command Center
 
-I am building my career in **DevOps and Cloud Engineering** with a strong focus on hands-on learning, real-world AWS projects, infrastructure automation, and secure system design.
+```text
+Name        : Hamzah Hashmi
+Track       : DevOps / Cloud Engineering
+Focus       : AWS • Linux • Docker • Terraform • GitHub Actions
+Current Goal: Build a recruiter-ready cloud portfolio
+Mission     : Automate infrastructure, secure systems, scale deployments
+```
 
-- Transitioning from **MERN Stack Development** into **DevOps & Cloud**
-- Currently learning **AWS Solutions Architect Associate**
-- Working with **AWS, Docker, Linux, GitHub Actions, Terraform, Nginx**
-- Interested in **IAM, cloud security, automation, CI/CD, and scalable infrastructure**
-- Building a portfolio that reflects practical engineering skills
+### 🌌 About Me
 
----
+I am transitioning from MERN Stack Development into DevOps and Cloud Engineering, with a strong focus on hands-on learning and real-world AWS projects.
 
-## Tech Stack
+🔹 Building practical cloud projects (not just theory)
+🔹 Preparing for AWS Solutions Architect Associate
+🔹 Working with AWS, Docker, Linux, CI/CD, Terraform
+🔹 Interested in security, IAM, automation, and scalable systems
+🔹 Creating a strong portfolio for DevOps roles
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash,terraform,nginx,js,nodejs,postgres,mongodb,vscode&theme=dark" alt="Tech Stack" />
-</p>
+### ⚙️ Tech Stack
 
----
+  <p align="center"> 
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash,terraform,nginx,js,nodejs,postgres,mongodb,vscode&theme=dark" /> 
+  </p>
 
-## GitHub Analytics
+## 🛰️ Current Progress
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hamzahashmi3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahashmi3&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
-</p>
+| Domain     | Status         | Focus                  |
+| ---------- | -------------- | ---------------------- |
+| AWS        | ████████░░ 80% | EC2, IAM, S3, VPC      |
+| Linux      | ████████░░ 80% | CLI, system management |
+| Docker     | ███████░░░ 70% | Containers             |
+| CI/CD      | ██████░░░░ 60% | GitHub Actions         |
+| Terraform  | █████░░░░░ 50% | Infrastructure         |
+| Monitoring | ████░░░░░░ 40% | CloudWatch             |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamzahashmi3&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
-</p>
+### 🐍 Contribution Activity
 
----
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/hamzahashmi3/hamzahashmi3/output/github-contribution-grid-snake-dark.svg" /> 
+  </p>
 
-## Activity Overview
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzahashmi3&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+- 🔐 AWS IAM Security Project
+- MFA enforcement
+- Role-based access control
+- Least privilege policies
 
----
+### 🐳 EC2 + Docker + Nginx + S3 Backup
 
-## Dev Inspiration
+- Dockerized deployment
+- Nginx hosting
+- Automated backups
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+### ☁️ EC2 High Availability
 
----
+- Load balancing
+- Shared storage (EFS)
+- Scalable architecture
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamzahashmi3/hamzahashmi3/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## Certifications & Current Direction
+### 🎯 Certifications
 
 - AWS Certified Cloud Practitioner
-- Preparing for AWS Solutions Architect Associate
-- Building hands-on AWS and DevOps portfolio projects
-- Focused on Infrastructure, Security, Automation, and CI/CD
+- AWS Solutions Architect Associate (in progress)
 
-## Featured Projects
+### 📦 Next Goals
 
-### AWS IAM Security Project
-A practical IAM security project focused on strong access control and least-privilege design.
+- Terraform project
+- CI/CD pipelines
+- Monitoring system
+- Production-grade cloud architecture
 
-- MFA enforcement
-- Role-based access structure
-- Permission boundaries and secure policy design
+### 🧬 DevOps Mindset
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Automate-Everything-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Secure-Everything-0f766e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Scale-Anything-1d4ed8?style=for-the-badge" />
+  </p>
 
-### EC2 + Docker + Nginx + S3 Backup
-A cloud deployment project showing practical server setup and automated backup workflow.
+### 🌐 Connect With Me
 
-- Dockerized application deployment
-- Nginx-based hosting
-- Scheduled S3 backups using cron
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hamza-hashmi-6b5272135/">    
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:hamzahashmi.office@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
 
-### EC2 High Availability Architecture
-A high-availability AWS project designed around resilience and scalability.
+### ⚡ Final Quote
+  
+  <p align="center">
+    <b>Automate what is repeatable. Secure what is critical. Scale what matters.</b>
+  </p>
 
-- Load balancer integration
-- Shared storage with EFS
-- Multi-instance style architecture thinking
-
----
-
-## DevOps Mindset
-
-<p align="center">
-  <b>Automate what is repeatable. Secure what is critical. Scale what matters.</b>
-</p>
+```
