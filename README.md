@@ -78,9 +78,7 @@ flowchart LR
 
 
   <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
-    <p align="center">
-      <img src="./assets/IAM.gif"  alt="AWS IAM Project Demo" />
-    </p>
+      <img src="./assets/IAM.gif" align="center" alt="AWS IAM Project Demo" />
   </a>
 
 **What this project shows**
