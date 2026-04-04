@@ -77,9 +77,11 @@ flowchart LR
 ### 🔐 AWS IAM Secure Multi-Role Architecture
 
 
-  <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
-      <img src="./assets/IAM.gif" align="center" alt="AWS IAM Project Demo" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
+      <img src="./assets/IAM.gif" width="80%" alt="AWS IAM Project Demo" />
+    </a>
+  </p>
 
 **What this project shows**
 - MFA enforcement
