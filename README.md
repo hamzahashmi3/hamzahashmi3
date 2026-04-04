@@ -79,7 +79,7 @@ flowchart LR
 
   <p align="center">
     <a href="https://github.com/hamzahashmi3/01-aws-iam-secure-multi-role-architecture">
-      <img src="./assets/IAM.gif" width="80%" alt="AWS IAM Project Demo" />
+      <img src="./assets/IAM.gif" width="50%" alt="AWS IAM Project Demo" />
     </a>
   </p>
 
@@ -100,9 +100,11 @@ This project demonstrates secure identity and access management in AWS using rea
 
 ### 🐳 EC2 Docker Nginx S3 Backup
 
-<a href="https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup">
-  <img src="./assets/EC2-Docker.gif" width="100%" alt="Docker Nginx Project Demo" />
-</a>
+  <p align="center">
+    <a href="https://github.com/hamzahashmi3/02-EC2-Docker-Nginx-S3-Backup">
+      <img src="./assets/EC2-Docker.gif" width="50%" alt="Docker Nginx Project Demo" />
+    </a>
+  </p>
 
 **What this project shows**
 - Dockerized deployment on EC2
@@ -124,9 +126,11 @@ This project shows deployment, automation, and backup strategy in a practical cl
 
 ### ☁️ EC2 High Availability Architecture
 
-<a href="https://github.com/hamzahashmi3/03-EC2-High-Availability">
-  <img src="./assets/EC2-HA.gif" width="100%" alt="EC2 High Availability Project Demo" />
-</a>
+  <p align="center">
+    <a href="https://github.com/hamzahashmi3/03-EC2-High-Availability">
+      <img src="./assets/EC2-HA.gif" width="50%" alt="EC2 High Availability Project Demo" />
+    </a>
+  </p>
 
 **What this project shows**
 - Load balancing
@@ -145,9 +149,11 @@ This project highlights production-style AWS architecture focused on resilience,
 
 ### 🧩 TechnoCannons
 
-<a href="https://github.com/hamzahashmi3/technocannons">
-  <img src="./assets/technocannons.gif" width="100%" alt="TechnoCannons Project Demo" />
-</a>
+  <p align="center">
+    <a href="https://github.com/hamzahashmi3/technocannons">
+      <img src="./assets/technocannons.gif" width="50%" alt="TechnoCannons Project" />
+    </a>
+  </p>
 
 **What this project shows**
 - Full-stack development background
