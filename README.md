@@ -10,7 +10,7 @@
 
 ## 🧠 Profile Overview
 
-<!-- <table width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 Core Skills</h3>
@@ -52,27 +52,8 @@
       </ul>
     </td>
   </tr>
-</table> -->
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-<!-- Tumhara content -->
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahhashmi3&theme=tokyonight&hide_border=true" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hamzahhashmi3&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-</tr>
 </table>
+
 
 ## 🛰️ Example Cloud Architecture (My Approach)
 
@@ -88,8 +69,6 @@ flowchart LR
 ```
 
 ## 🚀 Featured Cloud & DevOps Projects
-
-## 🚀 Featured Projects
 
 <table>
   <tr>
